@@ -1,2 +1,2 @@
 threads = 2
-max_number = 256
+max_number = 65536
